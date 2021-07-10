@@ -8,6 +8,7 @@ This project is used to spell Vietnamese words.
 - giềng: i ê ngờ iêng, giờ iêng giêng huyền giềng.
 - thịch: i chờ ích, thờ ích thích nặng thịch.
 - ...
+
 #Author:
 - Full name: Nguyen Manh Dung. <br/>
 - Year of birth: 1998. <br/>
