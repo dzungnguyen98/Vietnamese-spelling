@@ -9,6 +9,9 @@ This project is used to spell Vietnamese words.
 - thịch: i chờ ích, thờ ích thích nặng thịch.
 - ...
 
+# Accuracy:
+100 %
+
 # Languagess:
 - python
 
