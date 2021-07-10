@@ -9,6 +9,9 @@ This project is used to spell Vietnamese words.
 - thịch: i chờ ích, thờ ích thích nặng thịch.
 - ...
 
+# Languagess:
+- python
+
 # Author:
 - Full name: Nguyen Manh Dung. <br/>
 - Year of birth: 1998. <br/>
